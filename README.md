@@ -21,7 +21,7 @@ Line chart was created to show the % of successful, failed and canceled outcomes
 Image
 
 ### Challenges and Difficulties Encountered
-While using the 'COUNTIFS()' formula for deliverable #2, I did not include the 'plays' criteria for each cell to drill down through, giving me an incorrect chart result.  After re-reading the instructions, I realized my mistake and was able to incule that criteria into each cell, giving me the desired result.
+While using the 'COUNTIFS()' formula for deliverable #2, I did not include the 'plays' criteria for each cell to drill down through, giving me an incorrect chart result.  After re-reading the instructions, I realized my mistake and was able to include that criteria into each cell, giving me the desired result.
 
 ## Results
 
