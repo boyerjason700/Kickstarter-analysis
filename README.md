@@ -39,6 +39,7 @@ While using the `COUNTIFS()` formula for deliverable #2, I did not include the '
 
 - What are some limitations of this dataset?
   - Can not conclude from data set why campaigns were canceled when goal fully met 
+  - What role marketing played on project outcomes
 
 - What are some other possible tables and/or graphs that we could create?
   - Relation between staff picks and outcomes
