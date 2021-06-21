@@ -30,7 +30,7 @@ While using the 'COUNTIFS()' formula for deliverable #2, I did not include the '
 2. Spring/early summer months yeild more successful outcomes than fall/winter months.
 
 - What can you conclude about the Outcomes based on Goals?
-Campaigns with a goal of $14,999 or less have a higher % for a successful outcome.
+1. Campaigns with a goal of $14,999 or less have a higher % for a successful outcome.
 
 - What are some limitations of this dataset?
 1. Can not conclude from data set why campaigns were canceled when goal fully met 
