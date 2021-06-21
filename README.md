@@ -10,7 +10,7 @@ Understand relationship of past Kickstarter campaigns between the launch dates a
 
 ### Analysis of Outcomes Based on Launch Date
 On 'Kickstarter' tab, new column was insterted at column U to identify year campaign was created using 'YEAR()' formula.  Using entire dataset, a pivot table was created on a new sheet to sort "theater" outcomes for each year. Outcome columns were reduced to "successful", "failed" and "canceled", removing "live" outcome.  Outcome columns were sorted by "successful" first.  
-![Piviot_1](C:\Users\boyer\Bootcamp\Kickstarter-analysis\resources)
+![Piviot_1](C:\Users\boyer\Bootcamp\Kickstarter-analysis\resources\Piviot_1)
 Pivot line chart with markers was created using pivot table to graph data.  Data series were changed to match colors similar to example on Canvas.  Title was given to chart.  Chart was copied and pasted into 'Paint' and saved as .png file.
 Image
 
