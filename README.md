@@ -23,7 +23,7 @@ Creating new tab labeled 'Outcome Based on Goals', 8 columns created using defin
 ![Table_1](https://user-images.githubusercontent.com/74840026/122826550-260a4000-d298-11eb-8dc9-b73b8991e6fb.PNG)
 
 Line chart was created to show the % of successful, failed and canceled outcomes for each value range.  Y axis was formated to have max bounds of 1.2 and major units of 0.2 to match example on Canvas.  Chart colors were also formated to match example.  Title given to chart.  Chart was copied and pasted intp 'Paint' and then saved as .png.
-![Outcoms_vs_Goals](https://user-images.githubusercontent.com/74840026/122826744-5c47bf80-d298-11eb-8207-4249add2d0f3.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/74840026/122826744-5c47bf80-d298-11eb-8207-4249add2d0f3.png)
 
 ### Challenges and Difficulties Encountered
 While using the 'COUNTIFS()' formula for deliverable #2, I did not include the 'plays' criteria for each cell to drill down through, giving me an incorrect chart result.  After re-reading the instructions, I realized my mistake and was able to include that criteria into each cell, giving me the desired result.
