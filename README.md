@@ -26,17 +26,17 @@ While using the 'COUNTIFS()' formula for deliverable #2, I did not include the '
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-Based on the chart data, the month of May has had the most successful outcomes in the theater category.
-Spring/early summer months yeild more successful outcomes than fall/winter months.
+1. Based on the chart data, the month of May has had the most successful outcomes in the theater category.
+2. Spring/early summer months yeild more successful outcomes than fall/winter months.
 
 - What can you conclude about the Outcomes based on Goals?
 Campaigns with a goal of $14,999 or less have a higher % for a successful outcome.
 
 - What are some limitations of this dataset?
-Can not conclude from data set why campaigns were canceled when goal fully met 
+1. Can not conclude from data set why campaigns were canceled when goal fully met 
 
 - What are some other possible tables and/or graphs that we could create?
-Relation between staff picks and outcomes
-Relation between spotlight and outcomes
-What types of projects perform better in different countries
+1. Relation between staff picks and outcomes
+2. Relation between spotlight and outcomes
+3. What types of projects perform better in different countries
 
