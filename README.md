@@ -31,8 +31,8 @@ While using the `COUNTIFS()` formula for deliverable #2, I did not include the '
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-1. Based on the chart data, the month of May has had the most successful outcomes in the theater category.
-2. Spring/early summer months yeild more successful outcomes than fall/winter months.
+  - Based on the chart data, the month of May has had the most successful outcomes in the theater category.
+  - Spring/early summer months yeild more successful outcomes than fall/winter months.
 
 - What can you conclude about the Outcomes based on Goals?
 1. Campaigns with a goal of $14,999 or less have a higher % for a successful outcome.
