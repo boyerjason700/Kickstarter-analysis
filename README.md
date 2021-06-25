@@ -2,7 +2,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Using Kickstarter dataset, compare campaign outcomes based on launch dates and campaign goals.
+Assist Louise to determine specific factors that make a project campaign successful by organizing, sort and analyize Kickstarter crowdfunding data and help her set up her own campaign for her play "Fever".
 
 ### Purpose
 Understand relationship of past Kickstarter campaigns between the launch dates and goals in relation to their outcomes.
